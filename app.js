@@ -5,6 +5,7 @@ var data = [{
   }];
   
   var layout = {
+    title: 'Global production of butternut squash',
     height: 400,
     width: 500
   };
